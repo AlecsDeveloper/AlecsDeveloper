@@ -1,6 +1,6 @@
 
-- 🐍  Hola, soy @AlecsDeveloper o Alecs ;)
-- 🌱  Desarrollador de árboles jóvenes
+- 🐍  Hi, i'am @AlecsDeveloper or Alecs ;)
+- 🌱  Sapling Developer
 - ♨️  Java • Js • Python • C++
 - ☄️  Discord Server: https://discord.gg/96Uyt3KWT5
 
