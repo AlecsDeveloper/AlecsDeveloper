@@ -1,9 +1,9 @@
 
-- 👋 Hi, I’m @AlecsDeveloper
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🐍 Hi, i'am @AlecsDeveloper or Alecs ;)
+- 🌱 Sapling Developer
+- ♨️ Java • Js • Python • C++
+- ☄️ Discord Server: https://discord.gg/96Uyt3KWT5
+
 
 <!---
 AlecsDeveloper/AlecsDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
