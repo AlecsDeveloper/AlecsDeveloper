@@ -4,8 +4,6 @@
 - ♨️  Java • Js • Python • C++
 - ☄️  Discord Server: https://discord.gg/96Uyt3KWT5
 
-
-<!---
-AlecsDeveloper/AlecsDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlecsDeveloper&layout=compact)](https://github.com/AlecsDeveloper) 
+  
+ [![views-count](https://komarev.com/ghpvc/?username=AlecsDeveloper&style=for-the-badge)](https://github.com/AlecsDeveloper)
