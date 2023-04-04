@@ -6,7 +6,7 @@
 
 <center>
 
-    <h1 style="color:red">Alecs</h1>
+<h1 style="color:red">Alecs</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlecsDeveloper&layout=compact)](https://github.com/AlecsDeveloper) 
 
