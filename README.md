@@ -1,3 +1,12 @@
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+  <p style="color: #333; font-weight: bold;">Este es un ejemplo de estilo en README.md</p>
+</div>
+
+
+
+
+
+
 <!---
 <h1 align="center">Hi 👋, I'm AlecsDeveloper</h1>
 
