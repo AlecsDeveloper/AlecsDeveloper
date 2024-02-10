@@ -1,6 +1,6 @@
 ## Hi! i'm AlecsDeveloper
 
-
+I am a developer of tools and addons for Minecraft Bedrock, although I also do other things outside of that!
 
 
 
