@@ -14,7 +14,7 @@ Right now I'm developing [Sapling](https://github.com/AlecsDeveloper/Sapling) ðŸ
 
 ## languages and tools
 
-| ![Static Badge](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=JavaScript&logoColor=Yellow&labelColor=grey&color=202020) | JavaScript |
+![Static Badge](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=JavaScript&logoColor=Yellow&labelColor=grey&color=202020)
 
 
 <!---
