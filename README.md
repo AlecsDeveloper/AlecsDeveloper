@@ -4,7 +4,7 @@ I am a developer of tools and addons for Minecraft Bedrock, although I also do o
 
 ---
 
-Right now I'm developing [Sapling](https://github.com/AlecsDeveloper/Sapling)
+Right now I'm developing [Sapling](https://github.com/AlecsDeveloper/Sapling) :leaves:
 
 ---
 
