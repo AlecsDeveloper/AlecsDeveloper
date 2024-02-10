@@ -6,6 +6,10 @@ I am a developer of tools and addons for Minecraft Bedrock, although I also do o
 
 Right now I'm developing [Sapling](https://github.com/AlecsDeveloper/Sapling)
 
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&count_private=true&show_icons=true&theme=radical)](https://github.com/AlecsDeveloper)
+
 <!---
 <h1 align="center">Hi 👋, I'm AlecsDeveloper</h1>
 
