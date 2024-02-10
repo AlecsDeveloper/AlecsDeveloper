@@ -14,7 +14,10 @@ Right now I'm developing [Sapling](https://github.com/AlecsDeveloper/Sapling) �
 
 ## languages and tools
 
-![Static Badge](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=JavaScript&logoColor=Yellow&labelColor=grey&color=202020)
+|   |   |   |
+|---|---|---|
+| ![Imagen 1](URL_imagen_1) | ![Imagen 2](URL_imagen_2) | ![Imagen 3](URL_imagen_3) |
+| Descripción 1 | Descripción 2 | Descripción 3 |
 
 
 <!---
