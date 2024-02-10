@@ -8,7 +8,7 @@ Right now I'm developing [Sapling](https://github.com/AlecsDeveloper/Sapling)
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlecsDeveloper&count_private=true&show_icons=true&theme=calm)](https://github.com/AlecsDeveloper)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlecsDeveloper&count_private=true&show_icons=true&theme=calm&title_color=2ecc71&icon_color=3498db&text_color=555&bg_color=ffffff)](https://github.com/AlecsDeveloper)
 
 <!---
 <h1 align="center">Hi 👋, I'm AlecsDeveloper</h1>
