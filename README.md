@@ -16,7 +16,7 @@ Right now I'm developing [Sapling](https://github.com/AlecsDeveloper/Sapling) ðŸ
 
 Languages (Most to least used/preffered):
 
-![Javascript](https://img.shields.io/badge/Javascript-59CF6C?style=for-the-badge&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-54C771?style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=coffeescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-F5CB1C?style=for-the-badge&logo=python&logoColor=white)
