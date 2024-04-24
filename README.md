@@ -12,6 +12,7 @@ Right now I'm developing [Sapling](https://github.com/AlecsDeveloper/Sapling) ðŸ
 <img width="99%" src="https://github-readme-stats.vercel.app/api?username=AlecsDeveloper&count_private=true&hide_border=true&show_icons=true&title_color=66BB6A&icon_color=9575CD&text_color=9E9E9E&bg_color=202020"/>
 </a>
 
+---
 
 Languages (Most to least used/preffered):
 
