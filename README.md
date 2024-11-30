@@ -16,8 +16,13 @@ Right now I'm developing [Sapling](https://github.com/SaplingDevs/Sapling) 🌱
 
 Languages (Most to least used/preffered):
 
-![Javascript](https://img.shields.io/badge/Javascript-DEB735?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=coffeescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3443DD?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-5967CF?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat-square&logo=java&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-%230072B1.svg?style=flat-square&logo=tauri&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
