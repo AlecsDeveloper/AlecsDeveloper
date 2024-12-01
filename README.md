@@ -2,6 +2,8 @@
 
 I am a developer of tools and addons for Minecraft Bedrock, although I also do other things outside of that!
 
+![](https://komarev.com/ghpvc/?username=alecsdeveloper&style=for-the-badge)
+
 ---
 
 Right now I'm developing [Sapling](https://github.com/SaplingDevs/Sapling) 🌱
