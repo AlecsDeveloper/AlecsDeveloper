@@ -1,34 +1,41 @@
-## Hi! i'm AlecsDeveloper
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=23&text=AlecsDeveloper&reversal=false&fontAlignY=40&fontSize=60&animation=fadeIn)
 
-I am a developer of tools and addons for Minecraft Bedrock, although I also do other things outside of that!
+# 👋 Hi! I'm AlecsDeveloper
 
-![](https://komarev.com/ghpvc/?username=alecsdeveloper&style=for-the-badge)
+I develop tools and add-ons for **Minecraft Bedrock**, and I also enjoy building other kinds of projects.
 
----
-
-Right now I'm developing [Sapling](https://github.com/SaplingDevs/Sapling) 🌱
+[![Profile Views](https://komarev.com/ghpvc/?username=AlecsDeveloper&style=for-the-badge)](https://github.com/AlecsDeveloper)
 
 ---
 
-<a href="https://github.com/AlecsDeveloper">
-<img width="99%" src="https://github-readme-stats.vercel.app/api?username=AlecsDeveloper&count_private=true&hide_border=true&show_icons=true&title_color=66BB6A&icon_color=9575CD&text_color=9E9E9E&bg_color=202020"/>
-</a>
+## 🚀 Current Project
+🌱 Working on [Sapling](https://github.com/SaplingDevs/Sapling)
 
 ---
+
+## 🛠️ Skills
 
 ### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23DEA584?style=for-the-badge&logo=rust&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%23E91E63?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23FF7800?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=DEA584)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=E91E63)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF7800)
 
 ### Technologies
+![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=FFC131)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00AF64)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 
-![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%2300AF64?style=for-the-badge&logo=node.js&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-%23FFC131?style=for-the-badge&logo=tauri&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
+## 📈 GitHub Stats
+
+<a href="https://github.com/AlecsDeveloper">
+  <img width="100%" src="https://streak-stats.demolab.com?user=AlecsDeveloper&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/AlecsDeveloper">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecsDeveloper&layout=compact&theme=transparent&hide_border=true&hide_progress=true" />
+</a>
